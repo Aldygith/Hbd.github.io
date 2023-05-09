@@ -1,2 +1,4 @@
-# Gerhana Matahari
-Gerhana matahari dengan HTML dan CSS
+#CSS mode 
+
+
+Management by @Aldy 
